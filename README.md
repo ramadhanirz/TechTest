@@ -1,2 +1,2 @@
-# WorkScheduleLeaveForm
-Project Pemograman Visual 
+# TechTest
+Riza Ramadhani
